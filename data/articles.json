@@ -1,1 +1,115 @@
-{"updated_at":"演示数据（尚未运行自动抓取）","articles":[{"id":"demo-1","title_zh":"欢迎使用 Power Intelligence","summary_zh":"这是一条演示内容，不是真实新闻。部署后，定时任务将从公开 RSS 来源采集新闻并生成中文摘要。","source":"DEMO · 非新闻","published":"2026-11-14","topic":"Platform","why_it_matters":"通过持续归档、检索与个人笔记，将短期阅读转化为长期行业知识。","strategic_question":"未来五年，哪些市场变化会真正改变 Mid-Market UPS 的竞争优势？","url":""}]}
+{
+  "updated_at": "2026-11-14（手动整理；含9月至11月新闻，按发布日期排序）",
+  "articles": [
+    {
+      "id": "news-20261114-01",
+      "title_zh": "Vertiv推出面向100kW以上机柜的高密度远程配电盘",
+      "summary_zh": "Vertiv发布PowerStation 3100 RPP，支持600至1200A配置，面向北美高密度AI机柜，并支持液冷泄漏时按机柜隔离供电。",
+      "source": "Vertiv",
+      "published": "2026-11-13",
+      "topic": "Power Distribution",
+      "why_it_matters": "机柜功率密度上升使配电保护、短路能力和液冷联锁成为差异化卖点；UPS产品规划需要考虑下游配电系统协同。",
+      "strategic_question": "中型数据中心客户是否会要求UPS厂商提供更完整的机柜级配电方案？",
+      "url": "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-introduces-high-density-remote-power-panel-for-next-generation-ai-data-centers/"
+    },
+    {
+      "id": "news-20261114-02",
+      "title_zh": "Vertiv推出户外中压UPS，整合电网故障穿越与AI负载平滑",
+      "summary_zh": "PowerNexus MV UPS将中压UPS、故障穿越和AI负载平滑集成于户外平台，宣称峰值效率可达98.5%，预计2027年中开始交付。",
+      "source": "Vertiv",
+      "published": "2026-11-12",
+      "topic": "UPS",
+      "why_it_matters": "竞争正在从低压UPS设备性能扩展到电网接入、动态负载管理与整体电力架构；该方案针对大型设施，不能直接等同于中端UPS替代品。",
+      "strategic_question": "中压侧供电保护会在哪些客户场景改变传统低压UPS的价值定位？",
+      "url": "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-introduces-medium-voltage-power-system-to-help--ai-data-centers-connect-to-the-grid-faster-and-free-indoor-space-for-compute/"
+    },
+    {
+      "id": "news-20261114-03",
+      "title_zh": "台达在SC26展示800V DC与±400V DC电力和冷却方案",
+      "summary_zh": "台达展示面向AI基础设施的Grid-to-Chip方案，涉及800V DC、±400V DC电力架构与冷却技术。",
+      "source": "Delta Electronics",
+      "published": "2026-11-12",
+      "topic": "800V DC",
+      "why_it_matters": "高压直流与冷却协同设计正在成为设备商的研发方向，但商业化规模与标准化进度仍需跟踪。",
+      "strategic_question": "未来五年哪些AI应用会率先采用800V DC，传统AC UPS如何定位？",
+      "url": "https://www.prnewswire.com/news-releases/delta-unveils-from-grid-to-chip-cooling-innovations-for-ai-infrastructure-and-for-new-800-vdc-400-vdc-architectures-at-sc26-302935999.html"
+    },
+    {
+      "id": "news-20261114-04",
+      "title_zh": "弗吉尼亚数据中心行业讨论聚焦供电速度与公众接受度",
+      "summary_zh": "DCD Connect Virginia 2026的观察指出，电力获取速度仍是关键议题，同时数据中心对社区和公共政策的影响受到更多关注。",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Grid",
+      "why_it_matters": "北美项目决策不仅取决于设备技术，还取决于电网排队、审批和当地社区接受度。",
+      "strategic_question": "中端市场是否存在因大型园区接电受限而转向分布式或改造项目的机会？",
+      "url": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/"
+    },
+    {
+      "id": "news-20261114-05",
+      "title_zh": "美国数据中心房地产回报领先整体商业地产",
+      "summary_zh": "Oxford Economics指出，美国数据中心在过去三年实现约7.1%的年化回报，高于整体商业地产约2.1%，需求继续向新市场扩展。",
+      "source": "Oxford Economics",
+      "published": "2026-11-13",
+      "topic": "Market",
+      "why_it_matters": "数据中心扩张可能带动二线地区的电力基础设施投资，但房地产回报不直接等于UPS市场增长率。",
+      "strategic_question": "北美哪些新兴地区最值得优先布局渠道与中端UPS产品？",
+      "url": "https://www.oxfordeconomics.com/resource/us-data-center-real-estate-outperforms-as-development-expands-into-new-markets/"
+    },
+    {
+      "id": "news-20261114-06",
+      "title_zh": "中国800MW AI园区首期120MW投入运行的报道",
+      "summary_zh": "Tom’s Hardware报道中国一处规划800MW的AI数据中心园区首期120MW已建成，项目结合风电、储能和800V DC；有关成本优势的说法仍需独立验证。",
+      "source": "Tom’s Hardware",
+      "published": "2026-11-09",
+      "topic": "800V DC",
+      "why_it_matters": "大规模AI园区尝试将电源架构、储能和建设周期整体优化；成本数据应谨慎比较。",
+      "strategic_question": "800V DC与储能集成的经验能否下沉到中型数据中心？",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost"
+    },
+    {
+      "id": "news-20261114-07",
+      "title_zh": "施耐德发布面向模块化AI工厂的RapidScale参考设计",
+      "summary_zh": "Schneider Electric推出RapidScale Modular Data Center Reference Design 115，面向NVIDIA Vera Rubin平台；公司引用研究称预制白空间模块可将现场安装时间减少80%。",
+      "source": "Schneider Electric",
+      "published": "2026-10-21",
+      "topic": "Prefab",
+      "why_it_matters": "预制化竞争重点由设备交付延伸到经过验证的模块化设计和项目周期；80%是特定研究情境下的指标。",
+      "strategic_question": "中端UPS组合如何更好地嵌入标准化Prefab设计而非仅作为单机销售？",
+      "url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-unveils-new-prefabricated-reference-design-engineered-for-modular-ai-factories-6ad897b234aa2622b80876bf/"
+    },
+    {
+      "id": "news-20261114-08",
+      "title_zh": "NVIDIA提出欧洲AI工厂能效与用水优化方案",
+      "summary_zh": "NVIDIA宣布欧洲合作生态采用DSX技术，声称特定设计可降低冷却用水，并在相同AI产出下降低最多30%的电力需求；这些属于公司公布的设计目标或测算。",
+      "source": "NVIDIA",
+      "published": "2026-10-21",
+      "topic": "Cooling",
+      "why_it_matters": "AI基础设施效率的竞争逐渐从单设备效率转向系统级能耗和冷却协同。",
+      "strategic_question": "UPS效率指标之外，是否需要建立更能体现客户总体能耗价值的产品论证？",
+      "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx"
+    },
+    {
+      "id": "news-20261114-09",
+      "title_zh": "施耐德推出2至2.5MW预制电力模块",
+      "summary_zh": "Schneider Electric发布基于Galaxy VXL UPS的预制Power Modules和Power Skids，提供2MW、2.25MW及2.5MW配置，先在欧洲推出并计划扩展至北美。",
+      "source": "Schneider Electric",
+      "published": "2026-09-16",
+      "topic": "Prefab",
+      "why_it_matters": "标准化电力模块与UPS产品组合绑定，有利于缩短项目设计和部署周期；对产品路线图和工厂交付模式具有直接参考价值。",
+      "strategic_question": "北美Mid-Market客户需要的是单台UPS灵活配置，还是预验证的整体电力模块？",
+      "url": "https://www.se.com/uk/en/about-us/newsroom/news/press-releases/Schneider-Electric-Expands-AIReady-Infrastructure-Portfolio-with-NextGeneration-Prefabricated-Power-Modules-6aaa55c64b36e465d50fc760/"
+    },
+    {
+      "id": "news-20261114-10",
+      "title_zh": "施耐德联合Wärtsilä提出美国数据中心Generator-to-Chip方案",
+      "summary_zh": "Schneider Electric、Wärtsilä和Stanley Consultants提出协调现场发电、电力基础设施及工程实施的交付模式，以缩短美国数据中心获得可用电力的时间。",
+      "source": "Schneider Electric",
+      "published": "2026-09-30",
+      "topic": "Grid",
+      "why_it_matters": "客户价值可能从设备采购转向发电、配电、控制和IT负载的一体化交付，合作伙伴生态的重要性上升。",
+      "strategic_question": "北美中型数据中心是否会出现更多自备电源与UPS协同的标准化需求？",
+      "url": "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-w%C3%A4rtsil%C3%A4-and-stanley-consultants-launch-coordinated-approach-for-faster-u-s-data-center-power-delivery-6abd4b475b7ed7308c085a71/"
+    }
+  ]
+}
