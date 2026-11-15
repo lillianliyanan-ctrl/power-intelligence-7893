@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-14（手动整理；含9月至11月新闻，按发布日期排序）",
+  "updated_at": "2026-11-15 06:53 UTC",
   "articles": [
+    {
+      "id": "1cbbd6d68cbea3070051",
+      "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "title_zh": "Developer Westend Real Assets buys two data centers in Hamburg",
+      "summary_zh": "The facilities were acquired from private equity firm Deutsche Beteiligungs",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-14",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/"
+    },
+    {
+      "id": "2f58b746199bb72f7b62",
+      "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "title_zh": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "summary_zh": "Company targets two projects outside Vizag",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-14",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/"
+    },
+    {
+      "id": "5d2cdde38aa57797887f",
+      "title": "European Union offers to build data center for Moldova",
+      "title_zh": "European Union offers to build data center for Moldova",
+      "summary_zh": "The facility would help to protect the personal data of Moldovan citizens from cyberattacks",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-14",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/"
+    },
+    {
+      "id": "55441e23711efb14a86a",
+      "title": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "title_zh": "Sponsored: When the pressure heats up, what really cools servers down?",
+      "summary_zh": "Demand is leading to cooling constraints across the data center. Joint ventures and more sustainable chillers could provide the long-term answer",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-14",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/"
+    },
+    {
+      "id": "bda1408d6edc455c32ca",
+      "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "title_zh": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "summary_zh": "Part of Tokyo city initiative to find uses for data center heat",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-14",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/"
+    },
+    {
+      "id": "328f20c991255ae15e81",
+      "title": "Rack-Mount STS Units Market To 2035: Data Center Redundancy Demand Drives Growth - News and Statistics - IndexBox",
+      "title_zh": "Rack-Mount STS Units Market To 2035: Data Center Redundancy Demand Drives Growth - News and Statistics - IndexBox",
+      "summary_zh": "Rack-Mount STS Units Market To 2035: Data Center Redundancy Demand Drives Growth - News and Statistics IndexBox",
+      "source": "Google News - UPS power",
+      "published": "2026-11-14",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0dya0pkUllCekdjUzVJMWVQTW1TSW8yQnR4czRTVno3MWFKYzV4bVJFUWVRRFAyRklmVGhCR2NhcHduaTU1QnROTzBJUHY3dVlLVU9UNEk2VUhjMWVJQnZJNmZET0FDTzk5a1NVQ3ZhcFpJbjZPRDBudXR3LW12SEVEMHBuOGZWbkdLXzFJeG0yeERnNjRvU1hBa0M0TE1wbkJuQXJjbWlKMXpObG9KRXNZWDF4b2hXYVE?oc=5"
+    },
     {
       "id": "news-20261114-01",
       "title_zh": "Vertiv推出面向100kW以上机柜的高密度远程配电盘",
@@ -11,28 +83,6 @@
       "why_it_matters": "机柜功率密度上升使配电保护、短路能力和液冷联锁成为差异化卖点；UPS产品规划需要考虑下游配电系统协同。",
       "strategic_question": "中型数据中心客户是否会要求UPS厂商提供更完整的机柜级配电方案？",
       "url": "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-introduces-high-density-remote-power-panel-for-next-generation-ai-data-centers/"
-    },
-    {
-      "id": "news-20261114-02",
-      "title_zh": "Vertiv推出户外中压UPS，整合电网故障穿越与AI负载平滑",
-      "summary_zh": "PowerNexus MV UPS将中压UPS、故障穿越和AI负载平滑集成于户外平台，宣称峰值效率可达98.5%，预计2027年中开始交付。",
-      "source": "Vertiv",
-      "published": "2026-11-12",
-      "topic": "UPS",
-      "why_it_matters": "竞争正在从低压UPS设备性能扩展到电网接入、动态负载管理与整体电力架构；该方案针对大型设施，不能直接等同于中端UPS替代品。",
-      "strategic_question": "中压侧供电保护会在哪些客户场景改变传统低压UPS的价值定位？",
-      "url": "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-introduces-medium-voltage-power-system-to-help--ai-data-centers-connect-to-the-grid-faster-and-free-indoor-space-for-compute/"
-    },
-    {
-      "id": "news-20261114-03",
-      "title_zh": "台达在SC26展示800V DC与±400V DC电力和冷却方案",
-      "summary_zh": "台达展示面向AI基础设施的Grid-to-Chip方案，涉及800V DC、±400V DC电力架构与冷却技术。",
-      "source": "Delta Electronics",
-      "published": "2026-11-12",
-      "topic": "800V DC",
-      "why_it_matters": "高压直流与冷却协同设计正在成为设备商的研发方向，但商业化规模与标准化进度仍需跟踪。",
-      "strategic_question": "未来五年哪些AI应用会率先采用800V DC，传统AC UPS如何定位？",
-      "url": "https://www.prnewswire.com/news-releases/delta-unveils-from-grid-to-chip-cooling-innovations-for-ai-infrastructure-and-for-new-800-vdc-400-vdc-architectures-at-sc26-302935999.html"
     },
     {
       "id": "news-20261114-04",
@@ -57,6 +107,232 @@
       "url": "https://www.oxfordeconomics.com/resource/us-data-center-real-estate-outperforms-as-development-expands-into-new-markets/"
     },
     {
+      "id": "d1274ade481bee47bd7b",
+      "title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+      "title_zh": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+      "summary_zh": "Midterm election results hang heavy, but speed to power still the focus",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/"
+    },
+    {
+      "id": "c84e6537f6da33ade3b7",
+      "title": "Integrated data center infrastructure",
+      "title_zh": "Integrated data center infrastructure",
+      "summary_zh": "A unified lifecycle framework for cooling, critical power, power generation and building management systems",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/"
+    },
+    {
+      "id": "4868d212c410ba4e8176",
+      "title": "ASIC ambition",
+      "title_zh": "ASIC ambition",
+      "summary_zh": "Startups and hyperscalers alike are making the case for custom silicon",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/"
+    },
+    {
+      "id": "edcb90ce6218f6a5b66b",
+      "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+      "title_zh": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+      "summary_zh": "Company has already acquired FläktGroup",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/"
+    },
+    {
+      "id": "345c5f2806af2de495bd",
+      "title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+      "title_zh": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+      "summary_zh": "First 300MW due live in 2027, ready for others to build on",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/"
+    },
+    {
+      "id": "b1da1e290ec85a54fe70",
+      "title": "Syntys breaks ground on 20MW data center in Qatar",
+      "title_zh": "Syntys breaks ground on 20MW data center in Qatar",
+      "summary_zh": "Facility to support high-density GPU workloads",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/"
+    },
+    {
+      "id": "d4e031500c088482588c",
+      "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
+      "title_zh": "Poste Italiane establishes €600m co-investment fund to support data center projects",
+      "summary_zh": "As company seeks to bolster data center infrastructure",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-13",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/"
+    },
+    {
+      "id": "news-20261114-02",
+      "title_zh": "Vertiv推出户外中压UPS，整合电网故障穿越与AI负载平滑",
+      "summary_zh": "PowerNexus MV UPS将中压UPS、故障穿越和AI负载平滑集成于户外平台，宣称峰值效率可达98.5%，预计2027年中开始交付。",
+      "source": "Vertiv",
+      "published": "2026-11-12",
+      "topic": "UPS",
+      "why_it_matters": "竞争正在从低压UPS设备性能扩展到电网接入、动态负载管理与整体电力架构；该方案针对大型设施，不能直接等同于中端UPS替代品。",
+      "strategic_question": "中压侧供电保护会在哪些客户场景改变传统低压UPS的价值定位？",
+      "url": "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-introduces-medium-voltage-power-system-to-help--ai-data-centers-connect-to-the-grid-faster-and-free-indoor-space-for-compute/"
+    },
+    {
+      "id": "news-20261114-03",
+      "title_zh": "台达在SC26展示800V DC与±400V DC电力和冷却方案",
+      "summary_zh": "台达展示面向AI基础设施的Grid-to-Chip方案，涉及800V DC、±400V DC电力架构与冷却技术。",
+      "source": "Delta Electronics",
+      "published": "2026-11-12",
+      "topic": "800V DC",
+      "why_it_matters": "高压直流与冷却协同设计正在成为设备商的研发方向，但商业化规模与标准化进度仍需跟踪。",
+      "strategic_question": "未来五年哪些AI应用会率先采用800V DC，传统AC UPS如何定位？",
+      "url": "https://www.prnewswire.com/news-releases/delta-unveils-from-grid-to-chip-cooling-innovations-for-ai-infrastructure-and-for-new-800-vdc-400-vdc-architectures-at-sc26-302935999.html"
+    },
+    {
+      "id": "9a5e68c0d7dbfaba2eca",
+      "title": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers - Yahoo Finance",
+      "title_zh": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers - Yahoo Finance",
+      "summary_zh": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers Yahoo Finance",
+      "source": "Google News - UPS power",
+      "published": "2026-11-12",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEN5LVZSNFpmUTh1VElDcHFiZ2JkaWNfZXM3OXFWNEZ3SmE3RUplbFRrWjB0dWhseE5ERk1ZemN4VC1KbWRubmpHNXB6dEg4QjFJNEFtZ3lTaEpYdkxUZjBTWW9Ic0ZTWjg5Y1VyZk83SDdvZEI0Rmo2OERRTDJIekpCeUhXcmtGT3NLTWtTVDR5dWgtVGRRMA?oc=5"
+    },
+    {
+      "id": "09bee9b6891b91675b16",
+      "title": "Liquid cooling redesigns data center racks for AI workloads - ET Datacenters",
+      "title_zh": "Liquid cooling redesigns data center racks for AI workloads - ET Datacenters",
+      "summary_zh": "Liquid cooling redesigns data center racks for AI workloads ET Datacenters",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-12",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNHVKd0g4VHlrYXBaeS1pRkVJZTRYZVU5aklUWHRPbWhkQnBlMHFZbEVTSEk4M2ZVNXBBNUZPOTFtMmd6b19IVWJnVVgxTmZ1NU82LUFUTXBJUTJJbDh6ZGlkMkMwak1QUFJWWHQ3a01jY1ZwZGUxSjZOMlVqR1BYekdud2xLS294RFRBamlNTG8zYXM3YzZER1Q3TmN6U3dfVmlQRGVfZUd0eFdaNGVzYXVYaWdnSEpidnBzdFZZQ052VVdSRTJuUnhHSHJqTTdHamsyb2xlMWJGeUZlR2NEM1VHV1U2VUN40gHsAUFVX3lxTE1SbFRpYXlZSmd0YmJCb19tTHIwWXJMNE0wTGQ0dzhMRmZqN1owc1pzTno2eU9oczNZQWRpTGFKRlVFUjhTVEhhVVNUdU9qeDF6TTBzM2t6eWNNTlpQb0Y0RlBudVI3STU0Y3d2MFdPQzI3Tnc2cmhMLVNEUG9FdFVjMXAxSGtxUHhtWG1TemkyNFY4NHZqcFVBUWJueXVTTFJpejJMS00ydmxQQXpHbW42TnR2UzdvN3RDNUhkS3lMdHl6R3duTzl1UEZEc2lWNGV2OEo5Tm5CcUpDT2x3QTVaSFdyaGY2SExxaEdY?oc=5"
+    },
+    {
+      "id": "b51b3e77adb81dc45708",
+      "title": "Delta Electronics bets on ‘grid-to-chip’ strategy to power Asia’s AI data center boom - CRN Asia",
+      "title_zh": "Delta Electronics bets on ‘grid-to-chip’ strategy to power Asia’s AI data center boom - CRN Asia",
+      "summary_zh": "Delta Electronics bets on ‘grid-to-chip’ strategy to power Asia’s AI data center boom CRN Asia",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-12",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVll3VmEwY0cxZkQ4R0VPOWdHZXk0OENUUC1DOXVrNXU2YjAxeGJkM1dSRU9nUlpFall1YUdzUEt2MzRLYTR2SjhlMjFJOFBRaE9xaUR5UFZPRkUzaTJoWm02NGR0MmVVY01VdzZ1ZHpPVWFiN2piWWNnN3pkOU4zMXg0WGtoVGt2ZHNsQWtVY1Q4WWZXZHZ1RUdtSkp6dG93MURqOGlHRQ?oc=5"
+    },
+    {
+      "id": "f9e4e9d6c7535af8469f",
+      "title": "Vertiv Stock: $375 Bull vs $180 Bear After 36% Drop - FinanceFeeds",
+      "title_zh": "Vertiv Stock: $375 Bull vs $180 Bear After 36% Drop - FinanceFeeds",
+      "summary_zh": "Vertiv Stock: $375 Bull vs $180 Bear After 36% Drop FinanceFeeds",
+      "source": "Google News - UPS power",
+      "published": "2026-11-11",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zODU5QkptbXVVeWFlU0lJS0VtdUs3VWoyWDhFN3hjazVweUEzR1RQV1FEYmNmVnFiWHh1SXAxYWdqTHhIS1I1MkctaGRzenNwSXlqTWJDTUJmRnl2V29DQWpZNmw0UjQzRGVxMTdSZ3lVd3VNWkFFWUZBcw?oc=5"
+    },
+    {
+      "id": "688136255d9a535e50e5",
+      "title": "Delta Unveils 'From-Grid-to-Chip' Cooling Innovations for AI Infrastructure and for New 800 VDC, ±400 VDC Architectures at SC26 - StreetInsider",
+      "title_zh": "Delta Unveils 'From-Grid-to-Chip' Cooling Innovations for AI Infrastructure and for New 800 VDC, ±400 VDC Architectures at SC26 - StreetInsider",
+      "summary_zh": "Delta Unveils 'From-Grid-to-Chip' Cooling Innovations for AI Infrastructure and for New 800 VDC, ±400 VDC Architectures at SC26 StreetInsider",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-11",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNk9DOVFtTkZLcFZnOWhiMHBlMEs2dDhEY0dqSGZYaXEyMWhPQV8wRnR1a3JPOHVnSzlVRXZhOENScFJ3YW5MenlvNnRTbHlQMGp6S0tDMENSYUlIOTk5eHFzV3lpU21DYWNuWnJ6RjlrVDd3dXRDekJmQ2RvUUhvQWsxSE8xTmZmWnNyblQzWUFXX1piOWltY0c4S19pWUVYa3ctdzJSclM4WHBfMXVIYXVzQ3NoNzFsYmhqemhZUmcwMmtVUE4tb1JRbFhtWUItbGZOQTZvRXpHbEZMb2xSZkdCVjhldjVaS3doTE1SeXRzbWNOOUZSVjl5LUozQnI2Q09ONWdaNGZyUGZhRFRCNEdFT1N6QlpvMmVoOWJn?oc=5"
+    },
+    {
+      "id": "2ce595a618e07fa20925",
+      "title": "Vertiv stock gets AI demand boost as 800 VDC roadmap takes shape - ad-hoc-news.de",
+      "title_zh": "Vertiv stock gets AI demand boost as 800 VDC roadmap takes shape - ad-hoc-news.de",
+      "summary_zh": "Vertiv stock gets AI demand boost as 800 VDC roadmap takes shape ad-hoc-news.de",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-11",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHJYZXZsSTBHLWM2dllMUFBFQm9KSGdTSWZxVktwNGxXdjBkbFJGUEY1RWMxTUdXdG00LWJ3MjhjVHVSV3V5Rko5dTk3YUhoYVlvdGlybVR1U09qOEpvSGZkTWNOU09URXU5TlFJN0VOME8xby1rbEhsb09qUVVfckZsbV9UY3otNGltREdORGJmc0NHODhRN0VmZnZ4UldUNndsWi1EdkZlVjNEb29PLU9LTFJHMjRUMWFxNmxMZG9hWXpydEE?oc=5"
+    },
+    {
+      "id": "4737e581852fa5462082",
+      "title": "Eaton Corporation plc (ETN.VI) latest press releases and corporate news - Yahoo Finance UK",
+      "title_zh": "Eaton Corporation plc (ETN.VI) latest press releases and corporate news - Yahoo Finance UK",
+      "summary_zh": "Eaton Corporation plc (ETN.VI) latest press releases and corporate news Yahoo Finance UK",
+      "source": "Google News - UPS power",
+      "published": "2026-11-10",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNjNrRkJqdGdrZVp3a2piMDBaZlJxZ0ZmQ0VKUGl2SGpYeXhicUtidHhsTm1kOWY1RmV6M2g0LXdTSGc1UzVyZ2NGT092TktjclBDQWZmVUFWRmJ1S1BqRWRBeXZ4bFRu?oc=5"
+    },
+    {
+      "id": "d992ef8b37c294fa4f68",
+      "title": "Battery Banks Market To 2035: Grid Reliability and Renewable Integration Drive Expansion - News and Statistics - IndexBox",
+      "title_zh": "Battery Banks Market To 2035: Grid Reliability and Renewable Integration Drive Expansion - News and Statistics - IndexBox",
+      "summary_zh": "Battery Banks Market To 2035: Grid Reliability and Renewable Integration Drive Expansion - News and Statistics IndexBox",
+      "source": "Google News - UPS power",
+      "published": "2026-11-10",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUEZtVmhscG5EdXVIZ3B4eGg2ZThfT3dTMDRGOUJkVW1yUVd2bnBFV0xsRzVnbUl6QUw3WVNoaVBDTFh4aEIwVjNKMGRGdVo2aTFXWGtVc2RVb1hJNlhTaXI5X2hWMFhJN2tabThhaE8td3hSQ2ItdG5ZMnVUa1lzNGRBWFFXR3F2c256VjVpdmhsR1Zka1BaRVRST0pGR0w5WnB4X0ktUEhpTlUtMEZORkRNZXVWTkJqUVFWWHZjWTdCNEJF?oc=5"
+    },
+    {
+      "id": "86d76736b41b30f40979",
+      "title": "Vertiv CEO Sees Faster Pipeline Growth as AI and Cloud Demand Expand - TradingView",
+      "title_zh": "Vertiv CEO Sees Faster Pipeline Growth as AI and Cloud Demand Expand - TradingView",
+      "summary_zh": "Vertiv CEO Sees Faster Pipeline Growth as AI and Cloud Demand Expand TradingView",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-10",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0VrcGs3V25PYU1GYl8wdVhQOXlIcUp0dk9SNXBZaVlocVZod05WcUlJV0VYSlotY2RoV3Fidl93UHZ2TlJFWG1EdEp4ZE1pQXN6ODJQTFU1OGZ0V1RZVURuOWZKeU5JZXRFV0xoWklGYkNQTWVGWGdQNjIzVDU5NnVxN3pDQm5tdnFqWkJJT2RHT3hiVW1YTlg0MFlLRFhMU3plNXV6TWpfT1BmRDFSYWJrU3FDUG53NHlMalplMHZEUUlPMTFCQg?oc=5"
+    },
+    {
+      "id": "1f860121305444dfd07f",
+      "title": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - WebWire",
+      "title_zh": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - WebWire",
+      "summary_zh": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure WebWire",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-10",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZ0tYdFQzcmhhMjdxR2M3YS1obUM5akVvbG9Bdmw5RTh2Q05UVlc2OTVuSV8tWEY3RVJLb2VheWdUTWlGdGl0NWZhV2ktSDZCSUJ1VnhReEhLaHFrZTFDcQ?oc=5"
+    },
+    {
       "id": "news-20261114-06",
       "title_zh": "中国800MW AI园区首期120MW投入运行的报道",
       "summary_zh": "Tom’s Hardware报道中国一处规划800MW的AI数据中心园区首期120MW已建成，项目结合风电、储能和800V DC；有关成本优势的说法仍需独立验证。",
@@ -66,6 +342,66 @@
       "why_it_matters": "大规模AI园区尝试将电源架构、储能和建设周期整体优化；成本数据应谨慎比较。",
       "strategic_question": "800V DC与储能集成的经验能否下沉到中型数据中心？",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost"
+    },
+    {
+      "id": "428e5fecbcecc35c270a",
+      "title": "Vertiv: The 50% Fall Isn't Enough (NYSE:VRT) - Seeking Alpha",
+      "title_zh": "Vertiv: The 50% Fall Isn't Enough (NYSE:VRT) - Seeking Alpha",
+      "summary_zh": "Vertiv: The 50% Fall Isn't Enough (NYSE:VRT) Seeking Alpha",
+      "source": "Google News - UPS power",
+      "published": "2026-11-09",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa0RoMktEaURkNnppT1Y0bzY1ay1kdFVlV3M5QnJnUWpVX2F5bFVRczlSMXdXY0x1dTc3OFJaRVdYbjFONlpwcjVabmxLdGlRZ2ZGNDc5ZTE1eXdicTYtUUx3VmthRW5tTlVzLVhwX1I2bzBzTE0zM2FmSmpZRFZVcnZkTm5aQQ?oc=5"
+    },
+    {
+      "id": "e63fced54c90e7956548",
+      "title": "AI Data Center Spending Surges in 2026: Dell, NVIDIA, HPE, Cisco and Storage Vendors Target Channel Revenue Growth - InfotechLead",
+      "title_zh": "AI Data Center Spending Surges in 2026: Dell, NVIDIA, HPE, Cisco and Storage Vendors Target Channel Revenue Growth - InfotechLead",
+      "summary_zh": "AI Data Center Spending Surges in 2026: Dell, NVIDIA, HPE, Cisco and Storage Vendors Target Channel Revenue Growth InfotechLead",
+      "source": "Google News - UPS power",
+      "published": "2026-11-09",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZtIB7AFBVV95cUxOM2E1MU5wWks0Y0tHTnBEeThvVWtHZlVvNUZfakVwMENVdHAzOGY0aXBEU3I0d3dSVEkzMEY1bEVXMXdKRXBiRDBmR0E3QVdRNlMwOEdDdmRXN2V5ZzFnSEdjMEFqYlEyMFhwa0xIRl91VXJIbEF4M3FxeE54cjJtbGdoU1IxNGdwUVBlMUJFOWxEYUszTmlmRlZ3dFV3SE9aZjZXd1hHWVZBal9aTFpVYTRMQ2lHZkZ2YmRFQ05NcmpLV1diMjlTNEtGMFpuN0ZzdERibFNiNUlVOGk4TjJiMWw1N3R4c200cllGZg?oc=5"
+    },
+    {
+      "id": "0b162a2d6ef53b62bf56",
+      "title": "AC Power Conditioners Market To 2035: Data Center Demand and Grid Variability Support Growth - News and Statistics - IndexBox",
+      "title_zh": "AC Power Conditioners Market To 2035: Data Center Demand and Grid Variability Support Growth - News and Statistics - IndexBox",
+      "summary_zh": "AC Power Conditioners Market To 2035: Data Center Demand and Grid Variability Support Growth - News and Statistics IndexBox",
+      "source": "Google News - UPS power",
+      "published": "2026-11-09",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjZidWJxNndrdGtob0R2eFJOSFlNazQ5RTMtSGFsTWw0bGlKRXdiWDNkNURPUVpKQ19mWS1RWVJwQTdDUjhPcmk5YURBazU5dHVqMVd0NWlyQ3BFZ1RFMTF6VnNaNmFKOG90emk3UWJhaEppQUpUb2lGd0RRRDBFc3Z6NlltdXpVdmx4a0FGTTE3bmZMVWt1TENsWVVmZThIakNUajRCcVRDY3JMOWVkVDZjcVNhZ25PNGNhcTAyeXV1RmZwX2RwX1R3?oc=5"
+    },
+    {
+      "id": "e56eb4b3c2a83384215a",
+      "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost - Tom's Hardware",
+      "title_zh": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost - Tom's Hardware",
+      "summary_zh": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost Tom's Hardware",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-09",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNclZHa3hJYlZSZi1nM0tHY3JnbEtzS3hMbTJ3SzVkLXczbTN2bG56QlFBWGFrM2dzdm1pMVhxaU1vR0pzU1RsSGk0RkQ5bWlBY0dRLUFLWHVaZnptbnJtaFVmYmZPUm5TeE42ZEowOE9vRm1xTzdPMXBvWjhMbW5RMEItTGpibldJZnl2YjdlQ19KcDdoWHVhNHA3QXN3TUF6M21NSHJ4R2poRV9jR2IxanlfMXdxNy1ucFh0Y2JzRDAyMmdUSWdwSFd3WEs2LUxTYWVoOXdzaHpwX215d1l3aW9DQkRwY1NZTHJGbEJvV3F5MWRFc1paVnJ2eGlOeUhOeFJCX1Z1WW9jdmZHLWJOMmoxbHV6cTFfLUp1WDNCck1jaVpWakJ4OWZEYm9hSXJyQklZT2JrTW00bVk?oc=5"
+    },
+    {
+      "id": "cc4dece9b8d6b718528e",
+      "title": "China plans 800MW AI data center campus with wind power, batteries and 800V DC - Mezha.net",
+      "title_zh": "China plans 800MW AI data center campus with wind power, batteries and 800V DC - Mezha.net",
+      "summary_zh": "China plans 800MW AI data center campus with wind power, batteries and 800V DC Mezha.net",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-09",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGlfTEtkb0VpM0pmRWRNMUkyOVFPZ042S1JDRmw0THFnN3VfX2Zha0VoRTNrd2xQaFFWUV9aTlM3cThFUXBlZmpuUW5ONXJJT2NNd1RvY0Yyd1loZUFZR04zdmZvTVZmYnN1aXZiNkRyOXZfZ0lwQVIxYWpGQzZTaWtn?oc=5"
     },
     {
       "id": "news-20261114-07",
@@ -90,17 +426,6 @@
       "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx"
     },
     {
-      "id": "news-20261114-09",
-      "title_zh": "施耐德推出2至2.5MW预制电力模块",
-      "summary_zh": "Schneider Electric发布基于Galaxy VXL UPS的预制Power Modules和Power Skids，提供2MW、2.25MW及2.5MW配置，先在欧洲推出并计划扩展至北美。",
-      "source": "Schneider Electric",
-      "published": "2026-09-16",
-      "topic": "Prefab",
-      "why_it_matters": "标准化电力模块与UPS产品组合绑定，有利于缩短项目设计和部署周期；对产品路线图和工厂交付模式具有直接参考价值。",
-      "strategic_question": "北美Mid-Market客户需要的是单台UPS灵活配置，还是预验证的整体电力模块？",
-      "url": "https://www.se.com/uk/en/about-us/newsroom/news/press-releases/Schneider-Electric-Expands-AIReady-Infrastructure-Portfolio-with-NextGeneration-Prefabricated-Power-Modules-6aaa55c64b36e465d50fc760/"
-    },
-    {
       "id": "news-20261114-10",
       "title_zh": "施耐德联合Wärtsilä提出美国数据中心Generator-to-Chip方案",
       "summary_zh": "Schneider Electric、Wärtsilä和Stanley Consultants提出协调现场发电、电力基础设施及工程实施的交付模式，以缩短美国数据中心获得可用电力的时间。",
@@ -110,6 +435,17 @@
       "why_it_matters": "客户价值可能从设备采购转向发电、配电、控制和IT负载的一体化交付，合作伙伴生态的重要性上升。",
       "strategic_question": "北美中型数据中心是否会出现更多自备电源与UPS协同的标准化需求？",
       "url": "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-w%C3%A4rtsil%C3%A4-and-stanley-consultants-launch-coordinated-approach-for-faster-u-s-data-center-power-delivery-6abd4b475b7ed7308c085a71/"
+    },
+    {
+      "id": "news-20261114-09",
+      "title_zh": "施耐德推出2至2.5MW预制电力模块",
+      "summary_zh": "Schneider Electric发布基于Galaxy VXL UPS的预制Power Modules和Power Skids，提供2MW、2.25MW及2.5MW配置，先在欧洲推出并计划扩展至北美。",
+      "source": "Schneider Electric",
+      "published": "2026-09-16",
+      "topic": "Prefab",
+      "why_it_matters": "标准化电力模块与UPS产品组合绑定，有利于缩短项目设计和部署周期；对产品路线图和工厂交付模式具有直接参考价值。",
+      "strategic_question": "北美Mid-Market客户需要的是单台UPS灵活配置，还是预验证的整体电力模块？",
+      "url": "https://www.se.com/uk/en/about-us/newsroom/news/press-releases/Schneider-Electric-Expands-AIReady-Infrastructure-Portfolio-with-NextGeneration-Prefabricated-Power-Modules-6aaa55c64b36e465d50fc760/"
     }
   ]
 }
