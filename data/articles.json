@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-15 06:53 UTC",
+  "updated_at": "2026-11-16 08:27 UTC",
   "articles": [
+    {
+      "id": "9bc401e097044003e114",
+      "title": "AWS breaks ground on $7bn data center in Indiana",
+      "title_zh": "AWS breaks ground on $7bn data center in Indiana",
+      "summary_zh": "Also purchases land in Chantilly, Virginia, for data center",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/"
+    },
+    {
+      "id": "864e3831bd032ff59def",
+      "title": "Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooling Portfolio for AI at SC26 - CASRAI",
+      "title_zh": "Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooling Portfolio for AI at SC26 - CASRAI",
+      "summary_zh": "Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooling Portfolio for AI at SC26 CASRAI",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-16",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJlVlpjeThXWUtnN1dUYmFkS2thbEQ4SnNzUG5GMDBUcGpSeDZhS05PZnpFTTJQTWRCc3Z2aDY0aTQyYjV2OExRM2h4SVllbHdmTlY4dVRFRG1sS0ZIM0pwTVduME9ZaWtSU3diNk1tODNrN2lVeUM2Ymx0amFsUTdCcGYzbm8tbHc?oc=5"
+    },
+    {
+      "id": "551817f7160faeac8907",
+      "title": "Airsys invests in digital boiler startup ThermAI",
+      "title_zh": "Airsys invests in digital boiler startup ThermAI",
+      "summary_zh": "Cooling company providing spray-cooling technology to UK startup",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-15",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/"
+    },
+    {
+      "id": "29f71a2bb33bd309a101",
+      "title": "Voltage Dips Testers Market To 2035: Renewable Energy Integration Drives Demand - News and Statistics - IndexBox",
+      "title_zh": "Voltage Dips Testers Market To 2035: Renewable Energy Integration Drives Demand - News and Statistics - IndexBox",
+      "summary_zh": "Voltage Dips Testers Market To 2035: Renewable Energy Integration Drives Demand - News and Statistics IndexBox",
+      "source": "Google News - UPS power",
+      "published": "2026-11-15",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmlpWW1TWXBKUWRaYUhUdjVhUDBfalUxQjFWVjJaS3l1dFdCMVlJa3lTNTZRRTV2OXpCLWZMZGROcTRnWDY2WHEyNWFMb285WG4yV3pvMXp1TTdvR2k3SmEzeVJubFZjRF9wM2ktc2VoejFsYW01RXJqSC1SazVlb25xRE1GYU5sdHZRUHVoVkZrY2Jja1J4ZGtfRGw5NXlHMV9ORmFtTVBfRmhNRHJHdzZFUV9LblZKTHc?oc=5"
+    },
     {
       "id": "1cbbd6d68cbea3070051",
       "title": "Developer Westend Real Assets buys two data centers in Hamburg",
@@ -72,6 +120,18 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0dya0pkUllCekdjUzVJMWVQTW1TSW8yQnR4czRTVno3MWFKYzV4bVJFUWVRRFAyRklmVGhCR2NhcHduaTU1QnROTzBJUHY3dVlLVU9UNEk2VUhjMWVJQnZJNmZET0FDTzk5a1NVQ3ZhcFpJbjZPRDBudXR3LW12SEVEMHBuOGZWbkdLXzFJeG0yeERnNjRvU1hBa0M0TE1wbkJuQXJjbWlKMXpObG9KRXNZWDF4b2hXYVE?oc=5"
+    },
+    {
+      "id": "ec55a08c6fd13b4547a4",
+      "title": "Remote Power Panels Market Forecast to 2035, Driven by Data Center Density and Edge Computing Growth - IndexBox",
+      "title_zh": "Remote Power Panels Market Forecast to 2035, Driven by Data Center Density and Edge Computing Growth - IndexBox",
+      "summary_zh": "Remote Power Panels Market Forecast to 2035, Driven by Data Center Density and Edge Computing Growth IndexBox",
+      "source": "Google News - UPS power",
+      "published": "2026-11-14",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnJ1S2pTVThnckVSUmpVMUtuVjhTb1NjTUN0REJyVkVfclNfZEZoNWI3YkstSVlWcE8wN18yUGgyclV5Z0toc0tNUmlVSU9GOTVlUlhja3BDYkFXeDFnWTREcjJadlJia0pTV2Rmek91bjZiU3NtMlpFZmdqTjliNDRRSzQ4RWxvZkxBVDBlNnZfZTRGYVRxSmtJRkMyTmJycHduN3dNTjZXWl85VnJLeGtVdHJOcFFjcWxaSU5oTVEzZ3AzbHVFZw?oc=5"
     },
     {
       "id": "news-20261114-01",
@@ -189,6 +249,18 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/"
+    },
+    {
+      "id": "07f00789919b8b108861",
+      "title": "Data Center Power Infrastructure Market to Reach USD 87.1 - openPR.com",
+      "title_zh": "Data Center Power Infrastructure Market to Reach USD 87.1 - openPR.com",
+      "summary_zh": "Data Center Power Infrastructure Market to Reach USD 87.1 openPR.com",
+      "source": "Google News - UPS power",
+      "published": "2026-11-13",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEF4ZFRrTDU4V05STC1heWM4cmY5ZTRPaFNwSFFoYVNSS2EyRXo2MWZzdS1heXNjQ2drRHh0WnJmN1hzUFNUeF94Z2xKVFM1d1lNbFdrVEN5NTA3STdDSEI2NEhFZFBWMmJhLXd2MERrcjVCNHB0eGh4SkRRS3c4ZXg4d1NPTk5vRUhJOEFDRU1qNlZIWXBTYw?oc=5"
     },
     {
       "id": "news-20261114-02",
@@ -331,6 +403,18 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZ0tYdFQzcmhhMjdxR2M3YS1obUM5akVvbG9Bdmw5RTh2Q05UVlc2OTVuSV8tWEY3RVJLb2VheWdUTWlGdGl0NWZhV2ktSDZCSUJ1VnhReEhLaHFrZTFDcQ?oc=5"
+    },
+    {
+      "id": "1835fa21c1c26a7d2aab",
+      "title": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - ZTE",
+      "title_zh": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - ZTE",
+      "summary_zh": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure ZTE",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-10",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2FLam1FMnlNNjZyMnVnTnI3RlQ5a2xJUWZGNE1tQlhuc2Joa1ZTM0VHQi1HUVBoZ094LUFHN3BlcmZNTGQ5SmZwT3c3WFNKMzJKODZJaWJad0FqZGJta3Jndmt5ZzJBeFRHbFdnN3F5WWJlVzZucG91NkFkc3ludHhncGRnQklqYjhEd1Jwa1FfTzNZbzBYdzdVM2VGaUI5Mk1HZHE1eUVHQWdneWNKbA?oc=5"
     },
     {
       "id": "news-20261114-06",
