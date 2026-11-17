@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 08:27 UTC",
+  "updated_at": "2026-11-17 07:04 UTC",
   "articles": [
     {
       "id": "9bc401e097044003e114",
@@ -24,6 +24,126 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJlVlpjeThXWUtnN1dUYmFkS2thbEQ4SnNzUG5GMDBUcGpSeDZhS05PZnpFTTJQTWRCc3Z2aDY0aTQyYjV2OExRM2h4SVllbHdmTlY4dVRFRG1sS0ZIM0pwTVduME9ZaWtSU3diNk1tODNrN2lVeUM2Ymx0amFsUTdCcGYzbm8tbHc?oc=5"
+    },
+    {
+      "id": "db43e9f87939b33b84cc",
+      "title": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
+      "title_zh": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
+      "summary_zh": "New GPU features more than 50,000 CUDA cores",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/"
+    },
+    {
+      "id": "a3fd15de95c44f124dd1",
+      "title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+      "title_zh": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+      "summary_zh": "The publicly traded REIT’s inaugural deal covers 13 newly constructed powered shells",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/"
+    },
+    {
+      "id": "4a95ab70e27fe18b35ff",
+      "title": "Arbitrating data center disputes in Southeast Asia",
+      "title_zh": "Arbitrating data center disputes in Southeast Asia",
+      "summary_zh": "Technology, obsolescence, and the neocloud challenge",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/"
+    },
+    {
+      "id": "0772da2fab79b4b678ba",
+      "title": "Microsoft looks to develop data center in Rockford, Illinois",
+      "title_zh": "Microsoft looks to develop data center in Rockford, Illinois",
+      "summary_zh": "Company already has a presence in nearby Cherry Valley",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/"
+    },
+    {
+      "id": "7619a1bedb429dbf3eb6",
+      "title": "The University of Münster deploys Zutacore's waterless, two-phase liquid cooling",
+      "title_zh": "The University of Münster deploys Zutacore's waterless, two-phase liquid cooling",
+      "summary_zh": "How waterless, two-phase liquid cooling is helping the University of Münster increase computing capacity, reduce energy consumption and improve the sustainability of its HPC infrastructure",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-university-of-m%C3%BCnster-deploys-zutacores-waterless-two-phase-liquid-cooling/"
+    },
+    {
+      "id": "4adaaab8db9ba095eb43",
+      "title": "Core Scientific files for 285MW data center outside Dallas, Texas",
+      "title_zh": "Core Scientific files for 285MW data center outside Dallas, Texas",
+      "summary_zh": "Company set to lease around half of site to AMD",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/core-scientific-files-for-285mw-data-center-outside-dallas-texas/"
+    },
+    {
+      "id": "ebbe32b6633f69090b89",
+      "title": "Prologis sues Ohio's Trenton city after residents vote against data centers",
+      "title_zh": "Prologis sues Ohio's Trenton city after residents vote against data centers",
+      "summary_zh": "City sued by company to keep project alive, as opponents threaten to sue to kill it",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/prologis-sues-ohios-trenton-city-after-residents-vote-against-data-centers/"
+    },
+    {
+      "id": "16ab0d9138a0f6d883e8",
+      "title": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+      "title_zh": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+      "summary_zh": "A unified two-phase loop from the chip to Munters SyCool heat rejection replaces the chillers, cooling towers, and CDUs – for a modelled pPUE of 1.03",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/product-news/zutacore-unveils-z%E2%82%82o-at-sc26-zero-h%E2%82%82o-near-zero-cooling-energy/"
+    },
+    {
+      "id": "5ddac10b954db9336524",
+      "title": "Bill introduced to ban data center development on some federally-owned land in US",
+      "title_zh": "Bill introduced to ban data center development on some federally-owned land in US",
+      "summary_zh": "Oregon US Representative Dexter looks to block development on land owned by US Forest Service and Department of the Interior",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-16",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/"
+    },
+    {
+      "id": "95cb71c838b1c720d78e",
+      "title": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - TradingView",
+      "title_zh": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure - TradingView",
+      "summary_zh": "ZTE Powers High Efficiency AIDC with Robust Energy Infrastructure TradingView",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-16",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVNZcC1PZ0RKOFViYzNUbWJJRHV2MlFOX3VyLWsxZWtCNkZVVnNVbFRMbFpnZ2cwWVI1N3A3SXZicXB6N0l3Z1VxdWFLTGxhOHZsN3FVYUZ0OTUtMUFDZFAyajFRRmlIaUFEX0xwMS1mbEp6QjJaNXJ3cTNMMTR2azI5NmF4YmZnZi12R3h4QjlUZVE4SXMxTjlnRm90ODBpTWFveEtVV1RlZGVEbFg2SGgzWGNNUTZyUXhFX1RrSEx1dWNj?oc=5"
     },
     {
       "id": "551817f7160faeac8907",
