@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-21 06:57 UTC",
+  "updated_at": "2026-11-22 06:57 UTC",
   "articles": [
+    {
+      "id": "4e15c1e7fda883d15043",
+      "title": "Sponsored: The hidden efficiency gap in data center containment",
+      "title_zh": "Sponsored: The hidden efficiency gap in data center containment",
+      "summary_zh": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-21",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/"
+    },
+    {
+      "id": "3ac18018a6f216951c70",
+      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "title_zh": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "summary_zh": "Demonstrating compliance is what turns it into power",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-21",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/"
+    },
+    {
+      "id": "ddd6a17006f95ef2734b",
+      "title": "Remote Power Management Controllers Market in Japan: Size, Trends and Forecast to 2035 - IndexBox",
+      "title_zh": "Remote Power Management Controllers Market in Japan: Size, Trends and Forecast to 2035 - IndexBox",
+      "summary_zh": "Remote Power Management Controllers Market in Japan: Size, Trends and Forecast to 2035 IndexBox",
+      "source": "Google News - UPS power",
+      "published": "2026-11-21",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3Z1a0dBN3B4MnYzME9kVkJTSW8xSGExQVdiZVo0QnlicjQxakRKQ01zal81WTZWQmVEakFUOHRZSzZPSGQ4VktpUVJhWkF3LTFZbWVoa2F0T014ZHo2RHVIS1ltTU1iVG82Xzc0N1NISzF4SXpLWUhTM3dWVDZtaWZMN0QwQVlGd0FzR25oSmpOVGg1djlGbnhBNlJ3dkdPUjNSUXNmaTRnbE4xOUNhREJLRW9DZ1dCaDBOcThFSQ?oc=5"
+    },
     {
       "id": "8f5fcc806ba25a81bebf",
       "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
