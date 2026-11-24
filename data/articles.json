@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-23 07:21 UTC",
+  "updated_at": "2026-11-24 07:03 UTC",
   "articles": [
+    {
+      "id": "30a7b6eb8479d9a2692d",
+      "title": "Spain approves new energy and digital sovereignty rules for data centers - W.Media",
+      "title_zh": "Spain approves new energy and digital sovereignty rules for data centers - W.Media",
+      "summary_zh": "Spain approves new energy and digital sovereignty rules for data centers W.Media",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-24",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmlZT0RyWThMNmsxWTNoamxzc3hsRHhndTN3cnNnaEZQalFtWkV1YTBKNG8xU3VRaC1JelBVUVpiRHlkOGRIQW92U3JpcjB0QUlham5vdnJzd0d3ckpXZTRHYVp3aHU1TUZ0bGdIbExwV0xkaUtsSnIxXzVwWUNKcnkxZVZnSFAyOXczT2NXdWRYY1U?oc=5"
+    },
     {
       "id": "53e24ad3e75109997687",
       "title": "Data Center Infrastructure Management Market to Reach US$ 20.57 - openPR.com",
@@ -14,6 +26,126 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUUzeUhSblhIRlo5dUdVRGJMeU9YUDlxY0k5VjBySWlpZ3VzSGpJcjhIamVCOThFb2RIamxzMUd2ZThuaGVFa1dBYTlLLUQyNHBVM2FlVmJwQklHZUVYOGx0TnVVWFlNUTAzTExMb2hHdWJkMnBmdUF3ZUlYRXF1VmtCZmtMUWZqb3RJWUlyMERHNTlqdVV2MXJ0SmVOSlU?oc=5"
     },
     {
+      "id": "1e2fb46f7b44f0510a81",
+      "title": "Cogent sells three data centers to I Squared Capital's Saragon",
+      "title_zh": "Cogent sells three data centers to I Squared Capital's Saragon",
+      "summary_zh": "Fiber firm sells facilities in Omaha, Tacoma, and Cheyenne for $35 million",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/"
+    },
+    {
+      "id": "42bb71c62bbd3de3ab65",
+      "title": "The coming wave: Is compute at sea ready to sink or swim?",
+      "title_zh": "The coming wave: Is compute at sea ready to sink or swim?",
+      "summary_zh": "Exploring the world of underwater and floating data centers",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/"
+    },
+    {
+      "id": "ba945767d3521a993f83",
+      "title": "Sponsored: Solving cabling challenges behind AI data center growth",
+      "title_zh": "Sponsored: Solving cabling challenges behind AI data center growth",
+      "summary_zh": "As data centers grow larger and denser, operators need cabling infrastructure designed to overcome the constraints of rapid expansion",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/"
+    },
+    {
+      "id": "8a1837899894079481b5",
+      "title": "Spain approves decree on data centers to curb electricity costs",
+      "title_zh": "Spain approves decree on data centers to curb electricity costs",
+      "summary_zh": "The approval comes after several months of debate between the government and companies in the sector",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/"
+    },
+    {
+      "id": "d24a22c9895af0d2272f",
+      "title": "CtrlS moves forward with 150MW data center project in Bihar, India",
+      "title_zh": "CtrlS moves forward with 150MW data center project in Bihar, India",
+      "summary_zh": "Company signs MoU for $1 billion project",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/"
+    },
+    {
+      "id": "cbc154f1a959d43ee5ec",
+      "title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+      "title_zh": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+      "summary_zh": "In partnership with Energie 360°",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/"
+    },
+    {
+      "id": "d85b271958dd57040b2f",
+      "title": "Banking on a sustainable future",
+      "title_zh": "Banking on a sustainable future",
+      "summary_zh": "Waterless two-phase cooling for sustainable financial infrastructure",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/banking-on-a-sustainable-future/"
+    },
+    {
+      "id": "41608d448513888040da",
+      "title": "Northern Europe Energy eyes 200MW data center project outside Riga, Latvia",
+      "title_zh": "Northern Europe Energy eyes 200MW data center project outside Riga, Latvia",
+      "summary_zh": "Renewable energy firm secures 16 hectares of land in Salaspils",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-eyes-200mw-data-center-project-outside-riga-latvia/"
+    },
+    {
+      "id": "9d5ef0eb29d8dadaa822",
+      "title": "Frux Capital to provide €20m funding for Proxity data center campus in Lisbon",
+      "title_zh": "Frux Capital to provide €20m funding for Proxity data center campus in Lisbon",
+      "summary_zh": "Facility will be located in Loures",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-23",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/frux-provides-20-million-euros-in-financing-for-the-proxity-campus-in-lisbon/"
+    },
+    {
+      "id": "a542d1b89f64d558e4a8",
+      "title": "What Vertiv Stock Says About AI Data Center Sentiment - Simply Wall St",
+      "title_zh": "What Vertiv Stock Says About AI Data Center Sentiment - Simply Wall St",
+      "summary_zh": "What Vertiv Stock Says About AI Data Center Sentiment Simply Wall St",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-23",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnVuZFhzaUkxR3JDTTVyRGdNY2pEaU1PbkhFdEFScWFLcW50MFIwTHRJWmRfUzJtS0pXdWJHX2hlblZFWUdwN0RVelVJdHk0V0tyT2RCWUtJUGlRY0RQNS13ZFFjRG1XWmpkLW92V1h6dlNNeWx0X2xYVGNDbDc5S25NZGEtcnhESHB4QVBNNGhCLTcwNFUtLTZla19CVG5feC1CX25nNVhwTEdNY2wwTXlTc0NxVXdyaThsMXlQQkJMWEZpRGhfOHEzd19kaGplTGfSAdIBQVVfeXFMTXJ1bmRYc2lJMUdyQ001ckRnTWNqRGlNT25IRXRBUnFhS3FudDBSMEx0SVpkX1MybUtKV3ViR19oZW5WRVlHcDdEVXpVSXR5NFdLck9kQllLSVBpUWNEUDUtd2RRY0RtV1pqZC1vdldYenZTTXlsdF9sWFRjQ2w3OUtuTWRhLXJ4REhweEFQTTRoQi03MDRVLS02ZWtfQlRuX3gtQl9uZzVYcExHTWNsME15U3NDcVV3cmk4bDF5UEJCTFhGaURoXzhxM3dfZGhqZUxn?oc=5"
+    },
+    {
       "id": "0d232fe851bce813d80d",
       "title": "Why the next phase of the data center buildout runs on light",
       "title_zh": "Why the next phase of the data center buildout runs on light",
@@ -24,6 +156,30 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/"
+    },
+    {
+      "id": "28320c763a34dfea9070",
+      "title": "Melbourne leads APAC data centre absorption as power constraints push expansion regionally - W.Media",
+      "title_zh": "Melbourne leads APAC data centre absorption as power constraints push expansion regionally - W.Media",
+      "summary_zh": "Melbourne leads APAC data centre absorption as power constraints push expansion regionally W.Media",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-22",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ09KV05SY1VtR0VtWmdkV2tCNVkzbDg1OE0yTVN1NmlwSElKNHRHR2ZtQzZxUU43a3FvUEpkY3lYZ2dYbkoxcUdvWWVVSmx5bm1wV3FFVnJzMEhyOVZZUEQxUVJOMkFXOUdWanktcGZzbEhFMzBHZGdRQkIycjJxM0ROb2Z4SV9YZEVnOU5ZQ2FGNThSVTh4cjNsLXJBNFZXX2dHNVZ5RmNUQ1U?oc=5"
+    },
+    {
+      "id": "aff1d0d6f931b1ddc1ae",
+      "title": "IREN details 900MW Wagga campus, but Transgrid capacity not yet secured - W.Media",
+      "title_zh": "IREN details 900MW Wagga campus, but Transgrid capacity not yet secured - W.Media",
+      "summary_zh": "IREN details 900MW Wagga campus, but Transgrid capacity not yet secured W.Media",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-22",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnhUS2o1UUFmVkNBMDJvQ3MwM0JuV0J1QzFZWUxGbVRfLVQtZDBRU0xXbHdZemNxejRSSmlHb3lDOG9JX3lpeThqeTRZYTRwUXVaS3pTczlzYk9JdDNmeW01alE0ay1FUlBnRkdYUjhVX1RpZlNqazd6ZWpvQTI3MGF3dnc0Z0xEeTZuYi1PY1M?oc=5"
     },
     {
       "id": "4e15c1e7fda883d15043",
@@ -422,6 +578,18 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWEdwUWRmOXA1VF92a3VtYjdzb3IzcWNWdjd2M2NIUFRSTlBENTg3clgyYUc1UTRGS3RsS2pGQkFuYTQ3RFlDWWxKRkRQZnVHVlpVNEF2R1ZrQ2oxSE5JQmZaZ3d4RUt3cDBqeWVHWXd6TUZqZm9KVGhaaVU4Z0hTQ01NaFU3RlJfR050UTBackR2SXVfT0hoQlRqa1puNXBJbl9KNWs5dVc3ektmMFl2VTQ2SFZjaXd1LWc?oc=5"
     },
     {
+      "id": "5345121212343eeaf58c",
+      "title": "Schneider Electric (ENXTPA:SU) Stock Forecast & Analyst Predictions - Simply Wall St",
+      "title_zh": "Schneider Electric (ENXTPA:SU) Stock Forecast & Analyst Predictions - Simply Wall St",
+      "summary_zh": "Schneider Electric (ENXTPA:SU) Stock Forecast & Analyst Predictions Simply Wall St",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-19",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmdMNm82LUxrWTA3Rm1RaHhCTV9oZUEtczYtT3ZqUFR3enU4cFF0TG5UNXpqSDZ3Tzl2V3pPaTNZYzAyR2k1UG9WNTZoRzJibllkdVVJcENKMXZOQ3F1OWs1dHNZYmhYMkNtVjRXc3N0Y0g5UHBROU9FRmlOZmlHdHVsbnZDNEw5X2syZTVR?oc=5"
+    },
+    {
       "id": "8ec8af4b746e31130daa",
       "title": "Navigating CEQA: what data center developers need to know before investing in California",
       "title_zh": "Navigating CEQA: what data center developers need to know before investing in California",
@@ -816,6 +984,30 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnJLQi1iOEdqTGJvWlRDT2dVRlRNOUtucndiQ202azhVUExRdUZYY2tWMlVuMVJwT193T3RVZGZvTjl0MUZMQ2xpWkRUdi13anhONGhZQXI1U3pUTWJqclVZSEUyUUNMdndMWGdWQ3hzVE5QSzJMQzY4ZEpGLUw4NkxNR2ktcWltYVhpMTUwOVNHYTZaV253Z1BtcjVGQ1pfM1JZUERYQll4Ykk0amlRSFExT2otNWFQOW9ERnNDWDk?oc=5"
+    },
+    {
+      "id": "42403ecc59e240b19a7c",
+      "title": "Seal-less magnetic pumps designed for high-performance data centers - Interesting Engineering",
+      "title_zh": "Seal-less magnetic pumps designed for high-performance data centers - Interesting Engineering",
+      "summary_zh": "Seal-less magnetic pumps designed for high-performance data centers Interesting Engineering",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-17",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMm1xWU96djBhTkcxNEJ5N0h2dElCU3ZJTVFzWnAzcDk3UVFrRjBnZnRFSHNOTnpCVTlpYnEzcVV3OTZ6d0ptcU9mcmJoMnVkVGJiaGp4eTlRM1BxUE05YmRKWDQwaVZpODYwNGhGRVZIbEVDbktRSzA5UWd2dG5sWlM0dw?oc=5"
+    },
+    {
+      "id": "63cb4e28668912958dc2",
+      "title": "Vertiv Expands Its 800 VDC Power Solutions for AI Data Centers - KuCoin",
+      "title_zh": "Vertiv Expands Its 800 VDC Power Solutions for AI Data Centers - KuCoin",
+      "summary_zh": "Vertiv Expands Its 800 VDC Power Solutions for AI Data Centers KuCoin",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-17",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVpyZEt3SU9wdlVPOUcwUm52VzFSSmR1anJFY25iN2stZDVodUZQYnhhbGd0bWwwVnZEX29KTS0xZ25Qc0t6MlBsTGpNR3dPQlNjNU5sa3BSbVRSeEhNc20tOUVPNGZvRzlzRHZTWWNMS3dFanpVX052Q3dyS2F3N0RhNmxTamlDVFUwdjBweUZLWktmY2Fz?oc=5"
     },
     {
       "id": "9bc401e097044003e114",
