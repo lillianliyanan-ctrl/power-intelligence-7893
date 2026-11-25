@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 07:03 UTC",
+  "updated_at": "2026-11-25 07:06 UTC",
   "articles": [
     {
       "id": "30a7b6eb8479d9a2692d",
@@ -12,6 +12,186 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTmlZT0RyWThMNmsxWTNoamxzc3hsRHhndTN3cnNnaEZQalFtWkV1YTBKNG8xU3VRaC1JelBVUVpiRHlkOGRIQW92U3JpcjB0QUlham5vdnJzd0d3ckpXZTRHYVp3aHU1TUZ0bGdIbExwV0xkaUtsSnIxXzVwWUNKcnkxZVZnSFAyOXczT2NXdWRYY1U?oc=5"
+    },
+    {
+      "id": "7f31af81d82c23d425be",
+      "title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+      "title_zh": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+      "summary_zh": "Would have been the largest data center in Colorado",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/"
+    },
+    {
+      "id": "c826edceb1bd3701f958",
+      "title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+      "title_zh": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+      "summary_zh": "Fan business serves data centers and other HVAC markets",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/"
+    },
+    {
+      "id": "59f057457d6961a4a35a",
+      "title": "Sponsored: From rack to data hall: The practical path to 800VDC",
+      "title_zh": "Sponsored: From rack to data hall: The practical path to 800VDC",
+      "summary_zh": "AI density pushes rack-level power delivery toward its physical limits. The 800VDC transition begins with a practical sidecar architecture, but its success depends on the complete power system around it",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/"
+    },
+    {
+      "id": "dcee3f2e0e8e29554df9",
+      "title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+      "title_zh": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+      "summary_zh": "Scale of deployment not shared",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/"
+    },
+    {
+      "id": "5514e17110d66f32a46c",
+      "title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+      "title_zh": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+      "summary_zh": "Transaction will fund 10MW self-powered data center campus",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/"
+    },
+    {
+      "id": "1e7eeb8c79511fbe23f1",
+      "title": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+      "title_zh": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+      "summary_zh": "Company acquired the biomass site in January",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/"
+    },
+    {
+      "id": "0e6a441e2088ae03c022",
+      "title": "Google launches $10m Energy Impact Fund in Oregon",
+      "title_zh": "Google launches $10m Energy Impact Fund in Oregon",
+      "summary_zh": "Will support energy efficiency improvements for residential households and schools in The Dalles",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/google-launches-10m-energy-impact-fund-in-oregon/"
+    },
+    {
+      "id": "a371342791e1ac9f17f1",
+      "title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+      "title_zh": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+      "summary_zh": "Cluster deployed for unnamed inference infrastructure provider",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/"
+    },
+    {
+      "id": "3f5d6a2c6e1a89175f51",
+      "title": "Proper Voltage launches sodium-ion battery cabinet for data center UPS systems",
+      "title_zh": "Proper Voltage launches sodium-ion battery cabinet for data center UPS systems",
+      "summary_zh": "Partners with Unigrid on the battery system",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/proper-voltage-launches-sodium-ion-battery-cabinet-for-data-center-ups-systems/"
+    },
+    {
+      "id": "7b98ea7244ebb82c3eb4",
+      "title": "DatacenterHawk: Global data center supply grows two-thirds, but vacancy shrinks",
+      "title_zh": "DatacenterHawk: Global data center supply grows two-thirds, but vacancy shrinks",
+      "summary_zh": "Demand absorbs new capacity as quickly as it’s built",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/datacenterhawk-global-data-center-supply-grows-two-thirds-but-vacancy-shrinks/"
+    },
+    {
+      "id": "7b85a0cbfafe965052bb",
+      "title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+      "title_zh": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+      "summary_zh": "As Aether Holdings targets data center at factory site in Khon Kaen",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-24",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/"
+    },
+    {
+      "id": "7ff4bbf72ab3e6872d64",
+      "title": "Schneider Electric S.E. (SU.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "title_zh": "Schneider Electric S.E. (SU.PA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "summary_zh": "Schneider Electric S.E. (SU.PA) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "source": "Google News - UPS power",
+      "published": "2026-11-24",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42a2dhVmprLWxJekQwdmtwSXBYVHdxd2ZVMHo3MTY2ZGVrdDFwNW02OHhQRFMwaFdsbUFRNTB4eTdDTFJkRWNYN3VTbnI3RHpNT2dv?oc=5"
+    },
+    {
+      "id": "340bafd41c83922f7fdc",
+      "title": "Data Center Switchgear Market to Expand at a 16.1% CAGR as AI - openPR.com",
+      "title_zh": "Data Center Switchgear Market to Expand at a 16.1% CAGR as AI - openPR.com",
+      "summary_zh": "Data Center Switchgear Market to Expand at a 16.1% CAGR as AI openPR.com",
+      "source": "Google News - UPS power",
+      "published": "2026-11-24",
+      "topic": "Competitors",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTRXTDJfbThUQURXM2ZhY0pkREhSZW5vQ0tweUZYWkJHOHFCYkdWSTZqTkpoMUlUNU9fSWpBRlJPd1lobE8wdFRpeWxLeVVpZHB0bENpbXR4WjByaVc4cmp4bHJWZXpyU0twSkJHQm8xd1hTM1JTUGo5TkN5N2VwN1cxaFRldTVLOV95ZHduaFpTY3E1YWpBOHdsOUQ?oc=5"
+    },
+    {
+      "id": "f3dd8920647389dc1e2a",
+      "title": "Solid state transformers at the heart of 800V AI datacentre power ... - eeNews Europe",
+      "title_zh": "Solid state transformers at the heart of 800V AI datacentre power ... - eeNews Europe",
+      "summary_zh": "Solid state transformers at the heart of 800V AI datacentre power ... eeNews Europe",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-24",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHhvMVI0N1Aya0RmcnVaRXFWaHBhZUZXUjJYN3Q1YW5ncjB0OVBHQlNMdVJ0aUNxRTBIRUxlVGh2OEliR3RfVTlJUTctZHVVdFZJamdSVFlCdTZqNl9yNFFiaDNIVGpqOFlpTUhCeFkxWGgtUGRrT2lZb0lkcC1vOER5OHBVd19QX21mVWVmcDRFRFgwTllJVWZ3RGo0YU0?oc=5"
+    },
+    {
+      "id": "06cdaa84c19b7d52a1d8",
+      "title": "Lambruk outlines staged 350MW grid-demand data centre proposal in NSW - W.Media",
+      "title_zh": "Lambruk outlines staged 350MW grid-demand data centre proposal in NSW - W.Media",
+      "summary_zh": "Lambruk outlines staged 350MW grid-demand data centre proposal in NSW W.Media",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-24",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnFiczdaVmw5djdHM1llMTd1T3ZIUUlvTUpHelZaalh0SzN6bEN6TzZMNzBWbF9idXRjZi1jY1NGYXdoRlAwb1BWSGV6TlFmTUplLUNZYm9mUmdWb0R0NGhqNVJyNWgzRmtyWUU0dm1jNE1heWdscVU2eV9zY2Y5eFRKb19pQi1oWVZQRWM3aw?oc=5"
     },
     {
       "id": "53e24ad3e75109997687",
@@ -410,6 +590,18 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUxQRDcxMnRIQWh5SlQ1dkpkaG9RRU1Ta1preTB3RDV6d1VVT3dYdkNSYVhxaV9TTktBOGNqbnNOdEpQNHhRUmRMRW96WTBiT2g5MUlYSUlBd0x0UTNWbVI0em4zZXd0S2tDYk8yejdtNjZEbWUzM0xBT3pVRjZBU0IwN29EclNqQ0xKUVJtRWpyV2RyRzZBRzQ3UVItWmt2c2pXMEwtdWZoOUx0WUlZNTFoYktOd2lSRlhXZ0NIUnlRR29Fb1Q4?oc=5"
     },
     {
+      "id": "92df3e5db5a2f352f76e",
+      "title": "VRT - Vertiv Holdings, LLC | News - OTC Markets",
+      "title_zh": "VRT - Vertiv Holdings, LLC | News - OTC Markets",
+      "summary_zh": "VRT - Vertiv Holdings, LLC | News OTC Markets",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-20",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjFnX3lJbFhPN3F2UFRySGZkVWtzS2cyeUVlM1NaaFFJWU84MTZ2QmhpdE9Gbk9GRTUzNEU3OGxVdzgzdTJ2cmZGSmk0V1dScUxuektjTkZDcTBIeG14Y0MxWHZBWS1pRk9ReXl3WDZnVWhxUThyNDk5N2tSZWN0b1d4Qmp3VzUzMUY4QXgyWHg?oc=5"
+    },
+    {
       "id": "1bdc68163dcb41e904fc",
       "title": "Jana Partners presses Modine to boost margins or consider sale - ET Datacenters",
       "title_zh": "Jana Partners presses Modine to boost margins or consider sale - ET Datacenters",
@@ -792,6 +984,18 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTg2MkNVLUFTRnRLbVk2MEtIRU01X3A2bjNIRXRlLUtnSkdjUWt2OHBmRTBDNWpBV0hNYVNWT3V5eHNTZ0dBSnlINTZaeXBwa0hEa29tSzB6ZGZaY203dzZLX0wxakpDVzhqWG1kbDRWdTRCaDJ2UlVLV0N1N01MbF9YVnV3RnphRHV1ZXZxMXVkRGZlM2d6OW1fZnBtMEdac2M1TE51a0RHQTBybTc0eTBKcGl5OXFUckIzWm1DQkp2SXk4bkdYUjhPUTZXZldXMDVidUxpZw?oc=5"
+    },
+    {
+      "id": "cd0d3876ec2ca8bfc7be",
+      "title": "Mumbai CDC 2026: Celebrating Mumbai’s vibrant data center market - W.Media",
+      "title_zh": "Mumbai CDC 2026: Celebrating Mumbai’s vibrant data center market - W.Media",
+      "summary_zh": "Mumbai CDC 2026: Celebrating Mumbai’s vibrant data center market W.Media",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-18",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc3B0ZlNVYzdGeDB5dDdqbHJBNmhFUHZ6ZnpVOUEzVjNPVnVJOU5LaHI2a0tQOFF4bS01YmxmUFhEYnVpN1FZbDB5OWhIbHlHMjd6THFHdlF2Nl9WWVpHTnotZE9aclp5ejBRSHdWejBpdEpyZ2pISVZyeVVVY2pvM2ZUSXA3UQ?oc=5"
     },
     {
       "id": "444d36d2e5c3e610d222",
