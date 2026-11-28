@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 07:06 UTC",
+  "updated_at": "2026-11-28 07:00 UTC",
   "articles": [
     {
       "id": "dc5e3d59f1a54b015984",
@@ -12,6 +12,174 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWk4NnA0QkdyMzNyOUI4M1NJU0ZsLXNYX2FpekFfR1RYQy04eGZveExfVHhpQUZvZW9CeDE2SWtpVVkyZjFldjNEcmRsXzlTRTF5NFByS1BiSGZNVUhKaHhKS0ZtX1M0Y3VVd2lySFkyVWN3bGp5dU5jQVBMWGc0dUF4WS12UGY3bUE?oc=5"
+    },
+    {
+      "id": "01559324b5bc424b7f30",
+      "title": "Built different: Inside TRG’s homegrown data center business",
+      "title_zh": "Built different: Inside TRG’s homegrown data center business",
+      "summary_zh": "From a family-run hosting business in Atlanta to a growing data center operator in Houston",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/analysis/trg-data-center-houston-atlanta/"
+    },
+    {
+      "id": "2a8181a433a88a40d9a1",
+      "title": "Datlantis pitches underwater data centers powered by offshore wind",
+      "title_zh": "Datlantis pitches underwater data centers powered by offshore wind",
+      "summary_zh": "Elsewhere, Russia prepares to send floating data center to the Antarctic",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/datlantis-pitches-underwater-data-centers-powered-by-offshore-wind/"
+    },
+    {
+      "id": "41e31e8306473422f90d",
+      "title": "Abundant Mines plans landfill-powered Bitcoin mine near Mexico City",
+      "title_zh": "Abundant Mines plans landfill-powered Bitcoin mine near Mexico City",
+      "summary_zh": "Project backed by CH4, more Latin landfills targeted",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/abundant-mines-plans-landfill-powered-bitcoin-mine-near-mexico-city/"
+    },
+    {
+      "id": "cf9ba9759ed7decfe620",
+      "title": "Sponsored: Beyond uptime: How industrial power disturbances disrupt production",
+      "title_zh": "Sponsored: Beyond uptime: How industrial power disturbances disrupt production",
+      "summary_zh": "A power anomaly triggers a chain reaction that freezes production lines. Stopping the cascade starts with identifying what standard defences miss",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-uptime-how-industrial-power-disturbances-disrupt-production/"
+    },
+    {
+      "id": "db625e3e390b4216b616",
+      "title": "The silicone advantage: why next-gen data centers need a breathable skin",
+      "title_zh": "The silicone advantage: why next-gen data centers need a breathable skin",
+      "summary_zh": "And how silicone can shield construction schedule from seasonal weather disruptions",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-silicone-advantage-why-next-gen-data-centers-need-a-breathable-skin/"
+    },
+    {
+      "id": "ce8737c474cf274cecc9",
+      "title": "Hyperscale data center solutions for confident decommissioning",
+      "title_zh": "Hyperscale data center solutions for confident decommissioning",
+      "summary_zh": "Safe, secure, and seamless",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/hyperscale-data-center-solutions-for-confident-decommissioning/"
+    },
+    {
+      "id": "06713d3dafa92f172919",
+      "title": "Nexus DC files to build two data center buildings at site in Hubbard, Texas",
+      "title_zh": "Nexus DC files to build two data center buildings at site in Hubbard, Texas",
+      "summary_zh": "Adds to two other data center buildings it is planning to construct on the site",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/nexus-dc-files-to-build-two-data-center-buildings-at-site-in-hubbard-texas/"
+    },
+    {
+      "id": "4acd30cc616dc576ac8b",
+      "title": "SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report",
+      "title_zh": "SpaceX installs $250m worth of Tesla Megapack batteries at Starbase data center site in Texas - report",
+      "summary_zh": "Company seeking to develop up to $24bn data center and natural gas power plant at the site",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-installs-250m-worth-of-tesla-megapack-batteries-at-starbase-data-center-site-in-texas-report/"
+    },
+    {
+      "id": "35e3fee15aa4bb0272a3",
+      "title": "Vodafone to triple Safaricom’s data center footprint to 35MW",
+      "title_zh": "Vodafone to triple Safaricom’s data center footprint to 35MW",
+      "summary_zh": "Telco’s footprint currently totals 9.1MW across six facilities",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/vodafone-to-triple-safaricoms-data-center-footprint-to-35mw/"
+    },
+    {
+      "id": "fd3a04df5f42d3a1b584",
+      "title": "Galaxy Digital files for next phase of development at Helios data center campus in Texas",
+      "title_zh": "Galaxy Digital files for next phase of development at Helios data center campus in Texas",
+      "summary_zh": "Company looks to build another building at CoreWeave-leased campus",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/galaxy-digital-files-for-next-phase-of-development-at-helios-data-center-campus-in-texas/"
+    },
+    {
+      "id": "ef6016ba3f74326ff110",
+      "title": "NeuralSat raises $3.2m pre-seed on 72-satellite 50Gbps data relay & processing constellation",
+      "title_zh": "NeuralSat raises $3.2m pre-seed on 72-satellite 50Gbps data relay & processing constellation",
+      "summary_zh": "Startup offers European compute-ready orbital access and data network to unlock LEO power in the EU",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/neuralsat-raises-32m-pre-seed-on-72-satellite-50gbps-data-relay-processing-constellation/"
+    },
+    {
+      "id": "5592c6d99f63f6526e7a",
+      "title": "FCC approves SpaceX application to deploy one million satellites for data centers in space",
+      "title_zh": "FCC approves SpaceX application to deploy one million satellites for data centers in space",
+      "summary_zh": "Regulator gives green light for massive constellation",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/fcc-approves-spacex-application-to-deploy-one-million-satellites-for-data-centers-in-space/"
+    },
+    {
+      "id": "74e9bba82afe0bdfbd72",
+      "title": "UAE's BitHash targets AI data centers, eyes 250MW project in Oman",
+      "title_zh": "UAE's BitHash targets AI data centers, eyes 250MW project in Oman",
+      "summary_zh": "Another cryptominer plans AI capacity",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/uaes-bithash-targets-ai-data-centers-eyes-250mw-project-in-oman/"
+    },
+    {
+      "id": "1af435110203cbf53744",
+      "title": "Helios Solar and Galaxy Venus Data Center sign MoU to explore solar supply for data center in Perak, Malaysia",
+      "title_zh": "Helios Solar and Galaxy Venus Data Center sign MoU to explore solar supply for data center in Perak, Malaysia",
+      "summary_zh": "Tied to Helios' up to 1GW solar project in Gua Musang, Malaysia",
+      "source": "Data Center Dynamics",
+      "published": "2026-11-27",
+      "topic": "Market & Customers",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://www.datacenterdynamics.com/en/news/helios-solar-and-galaxy-venus-data-center-sign-mou-to-explore-solar-supply-for-data-center-in-perak-malaysia/"
     },
     {
       "id": "b92abd84e62e7a90c97a",
@@ -252,6 +420,18 @@
       "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
       "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaTZhRXBuSUkxSmZibWlkVG9VcUhFTS1VLVhGdzRYcGRpdHFZZzFjeEVlNWxYcHVwODNFQ0ZoeHdEd3RiRVBIWUVGMnczT0FZbThFNG10XzZxeXB6LUlYOWFaQng0OUQxWk0xaFo5QThOZFNNZ0kwWFhyeGFNbWRCU3MwM2U3QQ?oc=5"
+    },
+    {
+      "id": "59865102401875a0d47a",
+      "title": "Vertiv Advances 800 VDC Power Architectures to Support Growing AI Data Center Demands - CXOToday.com",
+      "title_zh": "Vertiv Advances 800 VDC Power Architectures to Support Growing AI Data Center Demands - CXOToday.com",
+      "summary_zh": "Vertiv Advances 800 VDC Power Architectures to Support Growing AI Data Center Demands CXOToday.com",
+      "source": "Google News - Power infrastructure",
+      "published": "2026-11-26",
+      "topic": "Technology",
+      "why_it_matters": "待分析：请结合客户需求、竞争和产品组合评估。",
+      "strategic_question": "这条变化对北美 Mid-Market 3-Phase UPS 的影响是什么？",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFpTVkxjMDZ0QU10bmZzNTgxWlgzeXBaWmpRWWk1UXdkV2lnSTBFM2Y4QUhRSUpaYjRodEd3OXkxaG5WTDkyUWNtanc3V0ROY0VjSHNQZHRWMUlHbDFzenE2LXpta3R4aDVieGhrekJMZVBWSXhFYmhSSVQ5R0ZkLVlOZVZZV2NOcjRxTmVjN2N1ejNsUG1JSlBmUFZGdVItaXV1aW9jZldpaG0yOWxxUmdmX2dKN2Y4aUFMWTA0NA?oc=5"
     },
     {
       "id": "7a60b0ec61bb85a44672",
